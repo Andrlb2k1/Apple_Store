@@ -4,3 +4,5 @@ Site para divulgação do Apple Watch, dos AirPods e do Vision Pro (com animaç�
 Links:
 
 https://icons.getbootstrap.com/
+
+https://fonts.google.com/
